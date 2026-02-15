@@ -1,0 +1,4 @@
+/home/ishfisav/vitis_workspace/eth_1G/zynqmp_fsbl/build/CMakeFiles/fsbl.elf.dir
+/home/ishfisav/vitis_workspace/eth_1G/zynqmp_fsbl/build/CMakeFiles/print_build_info.dir
+/home/ishfisav/vitis_workspace/eth_1G/zynqmp_fsbl/build/CMakeFiles/edit_cache.dir
+/home/ishfisav/vitis_workspace/eth_1G/zynqmp_fsbl/build/CMakeFiles/rebuild_cache.dir
